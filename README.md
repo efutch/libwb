@@ -18,7 +18,7 @@ and Cmake 2.8 ([](http://www.cmake.org/)[](http://www.cmake.org/)[](http://www.c
 Check out the source codes (only skeleton codes) for MPs as
 following
 
-[](https://github.com/hvcl/hetero13)[](https://github.com/hvcl/hetero13)[](https://github.com/hvcl/hetero13)[](https://github.com/hvcl/hetero13)[https://github.com/hvcl/hetero13](https://github.com/hvcl/hetero13)
+[](https://github.com/abduld-libwb)[](https://github.com/abduld/libwb)[](https://github.com/abduld/libwb)[](https://github.com/abduld/libwb)[https://github.com/abduld/libwb](https://github.com/abduld/libwb)
 
     git clone https://github.com/abduld/libwb
 
