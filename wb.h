@@ -68,10 +68,12 @@ extern char *solutionJSON;
 /***********************************************************/
 /***********************************************************/
 
+#ifndef __CUDACC__
 #ifdef __APPLE__
 #include <OpenCL/opencl.h>
 #else
 #include <CL/cl.h>
+#endif
 #endif
 
 #include <wbTypes.h>
